@@ -1,0 +1,19 @@
+body{
+  min-height: 2000px;
+}
+
+#produk{
+  background-color: #a6dd9f;
+}
+
+footer{
+  background-color: #4dc03e;
+}
+
+.jumbotron{
+  padding-top: 10rem;
+}
+
+section{
+  padding-top: 7rem;
+}
